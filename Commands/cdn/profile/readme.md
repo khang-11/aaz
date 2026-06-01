@@ -6,3 +6,6 @@ Manage Profile
 
 - [deployment-version](/Commands/cdn/profile/deployment-version/readme.md)
 : Manage Deployment Version
+
+- [endpoint](/Commands/cdn/profile/endpoint/readme.md)
+: Manage Endpoint
